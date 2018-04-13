@@ -1,0 +1,21 @@
+mardi 13 mars 2018, 15:43:33 (UTC+0100)
+   20 bateau.cpp
+   30 bateauVoyageur.cpp
+   17 collectionBateau.cpp
+   17 collectionEquipement.cpp
+   12 equipement.cpp
+   27 jeuEnregistrement.cpp
+    8 main.cpp
+   34 passerelle.cpp
+   24 pdf.cpp
+   61 bateau.h
+   66 bateauVoyageur.h
+   48 collectionBateau.h
+   48 collectionEquipement.h
+   47 equipement.h
+   59 jeuEnregistrement.h
+   41 passerelle.h
+   55 pdf.h
+  614 total
+nombre de méthodes : 25
+nombre de classes : 22
